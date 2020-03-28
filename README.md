@@ -1,8 +1,7 @@
 # split
 
 A new Flutter project.
-![ScreenShot]("https://github.com/vipuluthaiah/Tip-Calculator-Flutter/blob/master/ss/as.png" width="100" height="100"),
-
+![ScreenShot](https://github.com/vipuluthaiah/Tip-Calculator-Flutter/blob/master/ss/as.png),
 ![ScreenShot](https://github.com/vipuluthaiah/Tip-Calculator-Flutter/blob/master/ss/nu.png)
 
 
